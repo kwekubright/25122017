@@ -125,7 +125,7 @@
         <param name="SENDER_ID" value="learn-moodle-1159" />
     </gap:plugin>
     <!-- <gap:plugin name="net.tunts.webintent" /> -->
-    <gap:plugin name="WebIntent" value="com.borismus.webintent.WebIntent" />
+    <gap:plugin name="net.tunts.webintent" spec="0.2.1" source="pgb" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="learnmoodle" />
     </gap:plugin>
